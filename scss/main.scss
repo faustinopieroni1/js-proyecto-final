@@ -1,0 +1,28 @@
+/*SECTION*/
+
+.suplementos{
+    transition: all 0.5s;
+}
+
+.suplementos:hover{
+    filter: grayscale(50%);
+    transform: scale(1.1, 1.1);
+}
+
+.accesorios{
+    transition: all 0.5s;
+}
+
+.accesorios:hover{
+    filter: grayscale(50%);
+    transform: scale(1.1, 1.1);
+}
+
+.combos{
+    transition: all 0.5s;
+}
+
+.combos:hover{
+    filter: grayscale(50%);
+    transform: scale(1.1, 1.1);
+}

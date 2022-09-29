@@ -1,0 +1,54 @@
+/*VINCULACION DE PARTIALS*/
+.header .banner img {
+  max-width: 40%; }
+
+.header i {
+  font-size: 200%; }
+
+.navBar {
+  font-size: 130%; }
+
+.carousel-inner img {
+  max-width: 55%; }
+
+/*SECTION*/
+.suplementos {
+  transition: all 0.5s; }
+
+.suplementos:hover {
+  filter: grayscale(50%);
+  transform: scale(1.1, 1.1); }
+
+.accesorios {
+  transition: all 0.5s; }
+
+.accesorios:hover {
+  filter: grayscale(50%);
+  transform: scale(1.1, 1.1); }
+
+.combos {
+  transition: all 0.5s; }
+
+.combos:hover {
+  filter: grayscale(50%);
+  transform: scale(1.1, 1.1); }
+
+footer span {
+  font-size: 150%; }
+
+footer i {
+  font-size: 140%; }
+
+/* md */
+@media (min-width: 768px) {
+  .carousel-inner img {
+    max-width: 50%; } }
+
+/* lg */
+@media (min-width: 992px) {
+  .carousel-inner img {
+    max-width: 30%; } }
+
+/*ESTILOS GENERALES*/
+h1 {
+  font-size: x-large; }
