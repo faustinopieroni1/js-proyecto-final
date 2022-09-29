@@ -8,7 +8,7 @@ let nombre = prompt("Ingrese su nombre de usuario")
 let contraseña = prompt("Ingrese su contraseña")
 
 
-if ((nombre == "usuario") && (contraseña == "usuario")) {
+if ((nombre !="") && (contraseña !="")) {
 
 
 
