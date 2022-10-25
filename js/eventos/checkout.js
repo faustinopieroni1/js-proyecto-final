@@ -1,5 +1,4 @@
-//USO DE DOM PARA DEFINIR EVENTOS
-
+//FORMULARIO CHECKOUT
 let formularioCheckout = document.getElementById("formularioCheckout")
 
 formularioCheckout.addEventListener("submit", valoresFormulario)
